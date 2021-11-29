@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RaymartTheGreat
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C & Java OOP
+- 🌱 I’m currently learning C++ & Java
 - 💞️ I’m looking to collaborate on programmers
 - 📫 How to reach me; FB - Martin Garcia Gutera
 
